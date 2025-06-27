@@ -49,7 +49,7 @@ Run the main script:
 ```
 
 ## Documentation
-See `documentation/` or the [Wiki](https://github.com/echoes-of-tomorrow/central-unit/wiki) for details on architecture, function descriptions, and setup.
+See `documentation/` or the [Wiki](https://github.com/GLOW-Delta-2025/central-unit/wiki) for details on architecture, function descriptions, and setup.
 
 ## Branches
 - `main`: Production-ready code
