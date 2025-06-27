@@ -55,3 +55,9 @@ See `documentation/` or the [Wiki](https://github.com/echoes-of-tomorrow/central
 - `main`: Production-ready code
 - `develop`: Active development
 - `feature/<name>`, `bugfix/<name>`, `hotfix/<name>`: Use Git Flow
+
+## 🖒 Commit Convention
+```text
+<type>: <short description>
+```
+Example: `fix: LED flickering on pin 6`
