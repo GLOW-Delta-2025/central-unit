@@ -51,12 +51,12 @@ Run the main script:
 ## Documentation
 See `documentation/` or the [Wiki](https://github.com/echoes-of-tomorrow/central-unit/wiki) for details on architecture, function descriptions, and setup.
 
-## ⛓ Branches
+## Branches
 - `main`: Production-ready code
 - `develop`: Active development
 - `feature/<name>`, `bugfix/<name>`, `hotfix/<name>`: Use Git Flow
 
-## 🖒 Commit Convention
+## Commit Convention
 ```text
 <type>: <short description>
 ```
